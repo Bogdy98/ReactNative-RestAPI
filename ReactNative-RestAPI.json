@@ -2,38 +2,14 @@
   "movies": [
     { 
       "id": "1",
-      "title": "Star Wars",
-      "releaseYear": "1977",
-      "image": "https://i.ibb.co/1d1CvdN/MV5-BNzg4-Mj-Qx-NTQt-Zm-I5-My00-Yj-Mw-LWJl-Mj-Ut-Mm-Jl-Y2-U2-ZWFl-Nz-Y1-Xk-Ey-Xk-Fqc-Gde-QXVy-ODk4-O.jpg",
-      "trailer": "../videos/star-wars-trailer.mp4"
-    },
-    { 
-      "id": "2",
-      "title": "Back to the Future",
-      "releaseYear": "1985",
-      "image": "https://i.ibb.co/zNWz29L/MV5-BZm-U0-M2-Y1-OGUt-Zj-Ix-Ni00-Zj-Bk-LTg1-Mjgt-OWIy-NThi-ZWIw-Yj-Ri-Xk-Ey-Xk-Fqc-Gde-QXVy-MTQx-Nz.jpg",
-      "trailer": "../videos/star-wars-trailer.mp4"
-    },
-    { 
-      "id": "3",
-      "title": "The Matrix",
-      "releaseYear": "1999",
-      "image": "https://i.ibb.co/smLY9bV/MV5-BNz-Qz-OTk3-OTAt-NDQ0-Zi00-ZTVk-LWI0-MTEt-MDll-Zj-Nk-Yz-Nj-NTc4-L2lt-YWdl-Xk-Ey-Xk-Fqc-Gde-QXVy.jpg",
-      "trailer": "../videos/star-wars-trailer.mp4"
-    },
-    { 
-      "id": "4",
-      "title": "Inception",
-      "releaseYear": "2010",
-      "image": "https://i.ibb.co/LrmNsmn/MV5-BMj-Ax-Mz-Y3-Njcx-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-NTI5-OTM0-Mw-V1-FMjpg-UX1000.jpg",
-      "trailer": "../videos/star-wars-trailer.mp4"
-    },
-    { 
-      "id": "5",
-      "title": "Interstellar",
-      "releaseYear": "2014",
-      "image": "https://i.ibb.co/mTGxHmM/MV5-BZjdk-OTU3-MDkt-N2-Ix-OS00-OGEy-LWFm-Mjkt-Y2-Fi-Mm-Zk-NWIy-ODZi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2.jpg",
-      "trailer": "../videos/star-wars-trailer.mp4"
+      "title": "The Shawshank Redemption",
+      "rating": "9,3",
+      "releaseYear": "1994",
+      "image": "https://i.ibb.co/SssFNhP/MV5-BMDFk-YTc0-MGEt-Zm-Nh-MC00-ZDIz-LWFm-NTEt-ODM1-Zm-Rl-YWMw-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2-O.jpg",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "director": "Frank Darabont",
+      "writers": "Stephen King, Frank Darabont",
+      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton",
     }
   ]
 }
