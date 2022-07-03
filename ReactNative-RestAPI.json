@@ -13,47 +13,47 @@
     },
     { 
       "id": "2",
-      "title": "The Shawshank Redemption",
-      "rating": "9.3",
-      "releaseYear": "1994",
-      "image": "https://i.ibb.co/SssFNhP/MV5-BMDFk-YTc0-MGEt-Zm-Nh-MC00-ZDIz-LWFm-NTEt-ODM1-Zm-Rl-YWMw-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2-O.jpg",
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "director": "Frank Darabont",
-      "writers": "Stephen King, Frank Darabont",
-      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+      "title": "The Godfather",
+      "rating": "9.2",
+      "releaseYear": "1972",
+      "image": "https://i.ibb.co/qDWGF7V/MV5-BM2-My-Nj-Yx-Nm-Ut-YTAw-Ni00-MTYx-LWJm-NWYt-Yz-Zl-ODY3-ZTk3-OTFl-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q.jpg",
+      "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "director": "Francis Ford Coppola",
+      "writers": "Mario Puzo, Francis Ford Coppola",
+      "stars": "Marlon Brando, Al Pacino, James Caan"
     },
     { 
       "id": "3",
-      "title": "The Shawshank Redemption",
-      "rating": "9.3",
-      "releaseYear": "1994",
-      "image": "https://i.ibb.co/SssFNhP/MV5-BMDFk-YTc0-MGEt-Zm-Nh-MC00-ZDIz-LWFm-NTEt-ODM1-Zm-Rl-YWMw-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2-O.jpg",
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "director": "Frank Darabont",
-      "writers": "Stephen King, Frank Darabont",
-      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+      "title": "The Dark Knight",
+      "rating": "9.0",
+      "releaseYear": "2008",
+      "image": "https://i.ibb.co/s5fg9fm/MV5-BMTMx-NTMw-ODM0-NF5-BMl5-Ban-Bn-Xk-Ft-ZTcw-ODAy-MTk2-Mw-V1-FMjpg-UX1000.jpg",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "director": "Christopher Nolan",
+      "writers": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+      "stars": "Christian Bale, Heath Ledger, Aaron Eckhart"
     },
     { 
       "id": "4",
-      "title": "The Shawshank Redemption",
-      "rating": "9.3",
-      "releaseYear": "1994",
-      "image": "https://i.ibb.co/SssFNhP/MV5-BMDFk-YTc0-MGEt-Zm-Nh-MC00-ZDIz-LWFm-NTEt-ODM1-Zm-Rl-YWMw-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2-O.jpg",
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "director": "Frank Darabont",
-      "writers": "Stephen King, Frank Darabont",
-      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+      "title": "TThe Lord of the Rings: The Return of the King",
+      "rating": "9.0",
+      "releaseYear": "2003",
+      "image": "https://i.ibb.co/Gpg21s3/MV5-BNz-A5-ZDNl-ZWMt-M2-Nh-NS00-NDJj-LTk4-NDIt-YTRm-Y2-Ew-MWZl-MTY3-Xk-Ey-Xk-Fqc-Gde-QXVy-Nzkw-Mj-Q5.jpg",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "director": "Peter Jacksont",
+      "writers": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+      "stars": "Elijah Wood, Viggo Mortensen, Ian McKellen"
     },
     { 
       "id": "5",
-      "title": "The Shawshank Redemption",
-      "rating": "9.3",
-      "releaseYear": "1994",
-      "image": "https://i.ibb.co/SssFNhP/MV5-BMDFk-YTc0-MGEt-Zm-Nh-MC00-ZDIz-LWFm-NTEt-ODM1-Zm-Rl-YWMw-MWFm-Xk-Ey-Xk-Fqc-Gde-QXVy-MTMx-ODk2-O.jpg",
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "director": "Frank Darabont",
-      "writers": "Stephen King, Frank Darabont",
-      "stars": "Tim Robbins, Morgan Freeman, Bob Gunton"
+      "title": "Schindler's List",
+      "rating": "9.0",
+      "releaseYear": "1993",
+      "image": "https://i.ibb.co/SVdnPxP/MV5-BNDE4-OTMx-MTct-Nm-Rh-Yy00-NWE2-LTg3-Yz-It-YTk3-M2-Uw-OTU5-Njg4-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-U0-OTQ0.jpg",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "director": "Steven Spielberg",
+      "writers": "Thomas Keneally, Steven Zaillian",
+      "stars": "Liam Neeson, Ralph Fiennes, Ben Kingsle"
     }
   ]
 }
